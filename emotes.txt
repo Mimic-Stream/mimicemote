@@ -1,0 +1,82 @@
+
+
+[
+  {
+    "name": "hodl",
+    "image": "https://emoji.gg/assets/emoji/5852_hodl.png"
+  },
+  {
+    "name": "btc",
+    "image": "https://emoji.gg/assets/emoji/Bitcoin.png"
+  },
+  {
+    "name": "pump",
+    "image": "https://i.kym-cdn.com/photos/images/facebook/001/392/185/a1c.jpg"
+  },
+  {
+    "name": "TT",
+    "image": "https://assets.coingecko.com/coins/images/4375/large/Thundercore.png?1558566824"
+  },
+  {
+    "name": "hyper",
+    "image": "https://emoji.gg/assets/emoji/3752_hyper.gif"
+  },
+  {
+    "name": "pika",
+    "image": "https://emoji.gg/assets/emoji/3653_Surprised_pikachu.png"
+  },
+  {
+    "name": "mimic",
+    "image": "https://i.imgur.com/TXm35Rr.png"
+  },
+  {
+    "name": "dance",
+    "image": "https://emoji.gg/assets/emoji/PepoDance.gif"
+  },
+  {
+    "name": "watching",
+    "image": "https://emoji.gg/assets/emoji/PepePopcorn.gif"
+  },
+  {
+    "name": "buy",
+    "image": "https://pbs.twimg.com/profile_images/936911201627398144/D8c3Cltm_400x400.jpg"
+  },
+  {
+    "name": "doge",
+    "image": "https://emoji.gg/assets/emoji/cooldoge.gif"
+  },
+  {
+    "name": "dealwithit",
+    "image": "https://media1.tenor.com/images/1725db59765bf813425be176e47bf7e2/tenor.gif"
+  },
+  {
+    "name": "party",
+    "image": "https://media.tenor.com/images/f0d9b7e6d43bea1a989dd3e6ceba6ce5/tenor.gif"
+  },
+    {
+    "name": "heyyy",
+    "image": "https://emojis.slackmojis.com/emojis/images/1583776822/8039/eyebrows.gif"
+  },
+  {
+    "name": "brb",
+    "image": "https://emojis.slackmojis.com/emojis/images/1471045835/775/brb.gif"
+  },
+  {
+    "name": "thelook",
+    "image": "https://emojis.slackmojis.com/emojis/images/1490810099/1966/areyoukiddingme.png"
+  },
+  {
+    "name": "alert",
+    "image": "https://emojis.slackmojis.com/emojis/images/1594509479/9675/alert.gif"
+  },
+  {
+    "name": "cheers",
+    "image": "https://emojis.slackmojis.com/emojis/images/1531847273/4225/blob-beers.gif"
+  },
+  {
+    "name": "no",
+    "image": "https://emojis.slackmojis.com/emojis/images/1584725348/8266/blob-no.png"
+  }
+]
+
+
